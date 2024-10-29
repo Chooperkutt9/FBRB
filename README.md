@@ -1,4 +1,4 @@
-# Fuck-feca
+# CYBER EDITION
 A powerful reporting tool on Facebook from different protocols
 
 # What can this tool do?
@@ -16,7 +16,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/qorsan73/Fuck-feca
+git clone https://github.com/Chooperkutt9/FBRB.git
 
 cd Fuck-feca
 
@@ -29,11 +29,4 @@ python F.F.K.py
 
 # To communicate with the developer
 ```
-telegram: https://t.me/qorsantaez73
-```
-```
-whatsapp: +967737572399
-```
-```
-youtube: https://youtube.com/@hacking-world
-```
+shariar.sakib.official
