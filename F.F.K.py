@@ -71,11 +71,11 @@ GGPYPPPPPPP555P5YY5YYYJ5YP##BGB###########PYYYJJYYYYY5GB#&#GGPP?JGGB&#BGPPG??5GY
 PPYY55555YYPPPPGGBGBGGGY?J5B#&&&&&&&&PPBGPPBGPGGG5BPYBB5PGY5Y5GYB##GYYYY??~~!!!!~!JBY?YY?JYYYYYJJYYY
 GPPGGPPGGGGY5BBGBB#B##BG#&@@@@@@@&&&&####B##B#B##BBGGG#BG5YPG#BB#B5YYYJ555J?J5JJJ5PYYJJJYYYYJYYYYYJY
 GGGGP5GGGBBB#&&&&@@&@&&@&&#&&&&&&&&&&&&&&&&&&&&&&&PB&###BB#&&&&&#P555YP#GY55??J555Y?JJ?7?YYY5Y5YYY5Y
-                                        \033[1;92m{by: qorsan-taiz}
+                                        \033[1;92m{by: Shariar Sakib}
                                         
-                                        {github: https://github.com/qorsan73}
+                                        {github: https://github.com/Chooperkutt9}
                                         
-                                        {telegram: qorsantaez73}"""
+                                        {MR CYBER EDITION}"""
 
 print(banner)
 
